@@ -1,0 +1,1916 @@
+{
+  "users": [
+    {
+      "id": "user-1",
+      "fullName": "Balachandar A",
+      "username": "balachandar",
+      "email": "balachandarrangan@gmail.com",
+      "mobile": "+91 8438461479",
+      "dob": "24-11-2006",
+      "gender": "Male",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Dharmapuri",
+      "occupation": "Developer & Creator",
+      "schoolCompany": "TIMEAX Inc.",
+      "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+      "streak": 12,
+      "productivityScore": 70,
+      "achievements": [
+        "Early Bird",
+        "Consistency Master",
+        "Screen Time Slayer",
+        "Mindfulness Guru"
+      ],
+      "role": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "user-1784303399148",
+      "fullName": "Gowtham",
+      "username": "gowtham_24",
+      "email": "gowtham.gs1567@gmail.com",
+      "mobile": "9488815265",
+      "dob": "2007-06-15",
+      "gender": "Male",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "neyveli",
+      "occupation": "student",
+      "schoolCompany": "",
+      "profilePicture": "https://api.dicebear.com/7.x/adventurer/svg?seed=gowtham_24",
+      "streak": 1,
+      "productivityScore": 70,
+      "achievements": [
+        "Novice Timer"
+      ],
+      "role": "user",
+      "password": "gowtham"
+    },
+    {
+      "id": "user-1784711470821",
+      "fullName": "karthi",
+      "username": "karthi_17",
+      "email": "sivakarthi1730@gmail.com",
+      "mobile": "9345438446",
+      "dob": "2006-09-17",
+      "gender": "Male",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "occupation": "student",
+      "schoolCompany": "",
+      "profilePicture": "https://api.dicebear.com/7.x/adventurer/svg?seed=karthi_17",
+      "streak": 1,
+      "productivityScore": 70,
+      "achievements": [
+        "Novice Timer"
+      ],
+      "role": "user",
+      "password": "karthi17"
+    }
+  ],
+  "routines": [
+    {
+      "id": "rt-2026-07-01-0",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-01-1",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-01T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-2",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-01T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-3",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-01-4",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-01T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-5",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-01T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-6",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-01-7",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-01T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-8",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-01T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-9",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-01-10",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-01T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-11",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-01T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-12",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-01-13",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-01T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-01-14",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-01T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-0",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-02-1",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-02T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-2",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-02T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-3",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-02-4",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-02T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-5",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-02T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-6",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-02-7",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-02T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-8",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-02T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-9",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-02-10",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-02T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-11",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-02T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-12",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-02-13",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-02T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-02-14",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-02T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-0",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-03-1",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-03T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-2",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-03T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-3",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-03-4",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-03T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-5",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-03T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-6",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-03-7",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-03T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-8",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-03T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-9",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-03-10",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-03T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-11",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-03T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-12",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-03-13",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-03T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-03-14",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-03T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-0",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-04-1",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-04T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-2",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-04T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-3",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-04-4",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-04T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-5",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-04T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-6",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-04-7",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-04T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-8",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-04T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-9",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-04-10",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-04T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-11",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-04T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-12",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-04-13",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-04T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-04-14",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-04T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-0",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-05-1",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-05T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-2",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-05T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-3",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-05-4",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-05T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-5",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-05T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-6",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-05-7",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-05T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-8",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-05T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-9",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-05-10",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-05T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-11",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-05T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-12",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-05-13",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-05T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-05-14",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-05T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-0",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Brushed Teeth",
+      "completed": true,
+      "completedAt": "2026-07-06T8:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-1",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-06T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-2",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-06T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-3",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Yoga",
+      "completed": true,
+      "completedAt": "2026-07-06T11:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-4",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-06T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-5",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-06T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-6",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Read Books",
+      "completed": true,
+      "completedAt": "2026-07-06T14:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-7",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-06T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-8",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-06T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-9",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "College Work",
+      "completed": true,
+      "completedAt": "2026-07-06T17:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-10",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-06T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-11",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-06T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-12",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Family Time",
+      "completed": true,
+      "completedAt": "2026-07-06T8:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-13",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-06T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-06-14",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-06T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-0",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-07-1",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-07T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-2",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Morning Exercise",
+      "completed": true,
+      "completedAt": "2026-07-07T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-3",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-07-4",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Meditation",
+      "completed": true,
+      "completedAt": "2026-07-07T12:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-5",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Healthy Breakfast",
+      "completed": true,
+      "completedAt": "2026-07-07T13:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-6",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-07-7",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Studied",
+      "completed": true,
+      "completedAt": "2026-07-07T15:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-8",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Office Work",
+      "completed": true,
+      "completedAt": "2026-07-07T16:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-9",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-07-10",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Homework",
+      "completed": true,
+      "completedAt": "2026-07-07T18:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-11",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Drank Enough Water",
+      "completed": true,
+      "completedAt": "2026-07-07T19:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-12",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-07-13",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Evening Walk",
+      "completed": true,
+      "completedAt": "2026-07-07T9:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-07-14",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Slept Before 11 PM",
+      "completed": true,
+      "completedAt": "2026-07-07T10:30:00.000Z"
+    },
+    {
+      "id": "rt-2026-07-15-user-1-0-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-1-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Took Bath",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-2-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Morning Exercise",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-3-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-4-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Meditation",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-5-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Healthy Breakfast",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-6-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-7-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Studied",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-8-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Office Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-9-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-10-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Homework",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-11-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Drank Enough Water",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-12-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-13-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Evening Walk",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-15-user-1-14-1784126557275",
+      "userId": "user-1",
+      "date": "2026-07-15",
+      "title": "Slept Before 11 PM",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-0-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Brushed Teeth",
+      "completed": true,
+      "completedAt": "2026-07-17T15:46:37.806Z"
+    },
+    {
+      "id": "rt-2026-07-17-user-1-1-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Took Bath",
+      "completed": true,
+      "completedAt": "2026-07-17T15:47:16.587Z"
+    },
+    {
+      "id": "rt-2026-07-17-user-1-2-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Morning Exercise",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-3-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-4-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Meditation",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-5-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Healthy Breakfast",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-6-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-7-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Studied",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-8-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Office Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-9-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-10-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Homework",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-11-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Drank Enough Water",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-12-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-13-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Evening Walk",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1-14-1784303146086",
+      "userId": "user-1",
+      "date": "2026-07-17",
+      "title": "Slept Before 11 PM",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-0-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-1-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Took Bath",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-2-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Morning Exercise",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-3-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-4-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Meditation",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-5-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Healthy Breakfast",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-6-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-7-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Studied",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-8-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Office Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-9-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-10-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Homework",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-11-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Drank Enough Water",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-12-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-13-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Evening Walk",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-17-user-1784303399148-14-1784303399166",
+      "userId": "user-1784303399148",
+      "date": "2026-07-17",
+      "title": "Slept Before 11 PM",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-0-1784710555805",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Brushed Teeth",
+      "completed": true,
+      "completedAt": "2026-07-22T08:57:50.316Z"
+    },
+    {
+      "id": "rt-2026-07-22-user-1-1-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Took Bath",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-2-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Morning Exercise",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-3-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-4-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Meditation",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-5-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Healthy Breakfast",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-6-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-7-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Studied",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-8-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Office Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-9-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-11-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Drank Enough Water",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-12-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-13-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Evening Walk",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1-14-1784710555806",
+      "userId": "user-1",
+      "date": "2026-07-22",
+      "title": "Slept Before 11 PM",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-0-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Brushed Teeth",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-1-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Took Bath",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-2-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Morning Exercise",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-3-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Yoga",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-4-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Meditation",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-5-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Healthy Breakfast",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-6-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Read Books",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-7-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Studied",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-8-1784711470831",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Office Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-9-1784711470832",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "College Work",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-10-1784711470834",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Homework",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-11-1784711470835",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Drank Enough Water",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-12-1784711470835",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Family Time",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-13-1784711470835",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Evening Walk",
+      "completed": false
+    },
+    {
+      "id": "rt-2026-07-22-user-1784711470821-14-1784711470835",
+      "userId": "user-1784711470821",
+      "date": "2026-07-22",
+      "title": "Slept Before 11 PM",
+      "completed": false
+    }
+  ],
+  "screen_time": [
+    {
+      "id": "st-2026-07-01-1",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "mobile": 97,
+      "desktop": 270,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-01-2",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "mobile": 67,
+      "desktop": 148,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-01-3",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "mobile": 64,
+      "desktop": 82,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-02-1",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "mobile": 108,
+      "desktop": 252,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-02-2",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "mobile": 69,
+      "desktop": 141,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-02-3",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "mobile": 109,
+      "desktop": 37,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-03-1",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "mobile": 124,
+      "desktop": 234,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-03-2",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "mobile": 89,
+      "desktop": 118,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-03-3",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "mobile": 88,
+      "desktop": 60,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-04-1",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "mobile": 139,
+      "desktop": 270,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-04-2",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "mobile": 45,
+      "desktop": 109,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-04-3",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "mobile": 128,
+      "desktop": 33,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-05-1",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "mobile": 136,
+      "desktop": 357,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-05-2",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "mobile": 44,
+      "desktop": 104,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-05-3",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "mobile": 100,
+      "desktop": 52,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-06-1",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "mobile": 73,
+      "desktop": 296,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-06-2",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "mobile": 85,
+      "desktop": 156,
+      "purpose": "Study"
+    },
+    {
+      "id": "st-2026-07-06-3",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "mobile": 118,
+      "desktop": 38,
+      "purpose": "Social Media"
+    },
+    {
+      "id": "st-2026-07-07-1",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "mobile": 120,
+      "desktop": 240,
+      "purpose": "Coding"
+    },
+    {
+      "id": "st-2026-07-07-2",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "mobile": 45,
+      "desktop": 90,
+      "purpose": "Entertainment"
+    }
+  ],
+  "goals": [
+    {
+      "id": "g-2026-07-01-1",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-01-2",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-01-3",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-02-1",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-02-2",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-02-3",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-03-1",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-03-2",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Complete 45 mins morning cardio",
+      "completed": false
+    },
+    {
+      "id": "g-2026-07-03-3",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-04-1",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-04-2",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-04-3",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-05-1",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Practice React & Vite optimization",
+      "completed": false
+    },
+    {
+      "id": "g-2026-07-05-2",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-05-3",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-06-1",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-06-2",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-06-3",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-07-1",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Practice React & Vite optimization",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-07-2",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Complete 45 mins morning cardio",
+      "completed": true
+    },
+    {
+      "id": "g-2026-07-07-3",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "title": "Drink 3 liters of water",
+      "completed": true
+    }
+  ],
+  "journals": [
+    {
+      "id": "jr-2026-07-01",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-02",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-03",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-04",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-05",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-06",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    },
+    {
+      "id": "jr-2026-07-07",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "time": "20:30:00",
+      "learnedToday": "Learned about server-side proxy routes and caching techniques to optimize loading.",
+      "skillPracticed": "Implemented clean responsive SVG visualizers.",
+      "mistakesMade": "Spent too much time debugging peer dependency warnings manually.",
+      "improveTomorrow": "Plan the system architecture beforehand and rely on robust built-in browser layouts."
+    }
+  ],
+  "reflections": [
+    {
+      "id": "ref-2026-07-01",
+      "userId": "user-1",
+      "date": "2026-07-01",
+      "productivityRating": 5,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😃"
+    },
+    {
+      "id": "ref-2026-07-02",
+      "userId": "user-1",
+      "date": "2026-07-02",
+      "productivityRating": 4,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😊"
+    },
+    {
+      "id": "ref-2026-07-03",
+      "userId": "user-1",
+      "date": "2026-07-03",
+      "productivityRating": 5,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😃"
+    },
+    {
+      "id": "ref-2026-07-04",
+      "userId": "user-1",
+      "date": "2026-07-04",
+      "productivityRating": 3,
+      "timeWasters": "Spent too long on infinite scroll reels",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😐"
+    },
+    {
+      "id": "ref-2026-07-05",
+      "userId": "user-1",
+      "date": "2026-07-05",
+      "productivityRating": 5,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😊"
+    },
+    {
+      "id": "ref-2026-07-06",
+      "userId": "user-1",
+      "date": "2026-07-06",
+      "productivityRating": 4,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😃"
+    },
+    {
+      "id": "ref-2026-07-07",
+      "userId": "user-1",
+      "date": "2026-07-07",
+      "productivityRating": 5,
+      "timeWasters": "Minor distactions during lunch",
+      "happinessFactors": "Completed key features ahead of schedule and had family walk",
+      "mood": "😊"
+    }
+  ],
+  "chatbot_history": [
+    {
+      "id": "chat-msg-1784303454804",
+      "userId": "user-1784303399148",
+      "timestamp": "2026-07-17T15:50:54.804Z",
+      "sender": "user",
+      "message": "What is the Pomodoro Technique?"
+    },
+    {
+      "id": "chat-msg-1784303454809",
+      "userId": "user-1784303399148",
+      "timestamp": "2026-07-17T15:50:54.808Z",
+      "sender": "ai",
+      "message": "That's a great thought! As your TIMEX companion, I encourage you to time-block this topic, eliminate distractions, and record your notes in your daily Learning Journal to reinforce your recall."
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q-1",
+      "text": "Time is life itself.",
+      "author": "Balachandar A"
+    },
+    {
+      "id": "q-2",
+      "text": "Lost time is never found again.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id": "q-3",
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "q-4",
+      "text": "Discipline is choosing between what you want now and what you want most.",
+      "author": "Augustine of Hippo"
+    },
+    {
+      "id": "q-5",
+      "text": "Small daily improvements create extraordinary results.",
+      "author": "Robin Sharma"
+    },
+    {
+      "id": "q-6",
+      "text": "Consistency beats motivation.",
+      "author": "James Clear"
+    },
+    {
+      "id": "q-7",
+      "text": "Time once wasted can never be recovered.",
+      "author": "Unknown"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb-1",
+      "userId": "user-1",
+      "username": "balachandar",
+      "text": "Loving the glassmorphic design and the AI chatbot suggestion features!",
+      "date": "2026-07-04"
+    }
+  ]
+}

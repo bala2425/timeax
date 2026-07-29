@@ -1,0 +1,8 @@
+{
+  "name": "TIMEAX – Timax Experience",
+  "description": "A premium full-stack application for tracking daily routines, screen time, learning, and time experience, powered by a specialized Gemini productivity assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
